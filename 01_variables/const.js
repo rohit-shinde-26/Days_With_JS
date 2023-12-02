@@ -46,7 +46,7 @@ console.log(bike);
 // Example
 // You can create a const object:
 const car = {type:"Seedan", model:"500", color:"white"};
-
+ 
 // You can change a property:
 car.color = "red";
 
@@ -72,4 +72,4 @@ const x = 2;     // Not allowed
   const x = 2;   // Not allowed
 }
 
-*/
+*/ 
