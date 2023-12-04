@@ -11,9 +11,6 @@ let str2 = "ReactJs"
 let str3 = str1+str2;
 console.log(str3);
 
-
-
-
 console.log(2 + 4);
 console.log("2" + 8 + 4);
 
