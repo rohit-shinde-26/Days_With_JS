@@ -10,7 +10,7 @@ const JsUser = {
     "Full Name" : "Rohit Sanjay Shinde",
     age : 20,
     location: "Sangamner",
-    email : "jagduaegfd",
+    email : "sangamner@gmail.com",
     isLoggedIn : false ,
     lastLoginDays : ["Monday", "Sturday"],
     [mysym] : "mykey1",  // add symbol in object
