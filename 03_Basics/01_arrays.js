@@ -33,9 +33,6 @@ const myn1 = myArr.slice(1,3)  // return copy of section of an array
 console.log("B",myArr);
 console.log(myn1);
 
-
-
-
 const myn2 = myArr.splice(1,3);  // remove that range of element in an array
 console.log("c",myArr);
 console.log(myn2);
