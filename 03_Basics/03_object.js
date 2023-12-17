@@ -33,6 +33,7 @@ JsUser.msg = function(){
 }
 JsUser.msgtwo = function(){
     console.log(`hello its me, ${this.name}`);
+    // use backtics called string interpolation 
 }
 console.log(JsUser.msg);  // undefined
 console.log(JsUser.msg());  
