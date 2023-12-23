@@ -31,13 +31,15 @@ const bike = ["MT15", "Pulser", "TATA"];
 bike[0] = "Himalaya";
 
 // You can add an element:
-bike.push("BMW");
+bike.push("BMW");  // adds element in an array at last
 console.log(bike);
 
 
 //But you can NOT reassign the array:
 // const cars = ["Saab", "Volvo", "BMW"];
 // cars = ["Toyota", "Volvo", "Audi"];    // ERROR
+// it is not valid syntax 
+
 
 
 // Constant Objects

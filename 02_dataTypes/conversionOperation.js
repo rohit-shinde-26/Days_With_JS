@@ -1,9 +1,13 @@
 let value = 89;
 let negvalue = -value;
+// prints value negative
 
-console.log(2+2);
-console.log(3*5);
-console.log(5%5);
+
+
+
+// console.log(2+2);
+// console.log(3*5);
+// console.log(5%5);
 
 let str1 = "hello";
 let str2 = "ReactJs"
@@ -17,4 +21,4 @@ console.log("2" + 4);
 console.log(2 + "4");
 console.log(2 + +"4");
 
-console.log(+true);
+console.log(+true); // prints true
