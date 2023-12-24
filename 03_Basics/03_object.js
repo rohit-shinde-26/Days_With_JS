@@ -1,4 +1,4 @@
-// singleton
+// singleton => it makes when you create object using object.create 
 // object.create
 // object literals
 
@@ -12,7 +12,7 @@ const JsUser = {
     location: "Sangamner",
     email : "sangamner@gmail.com",
     isLoggedIn : false ,
-    lastLoginDays : ["Monday", "Sturday"],
+    lastLoginDays : ["Monday", "Saturday"],
     [mysym] : "mykey1",  // add symbol in object
 }
 
