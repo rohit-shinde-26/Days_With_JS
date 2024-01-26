@@ -1,3 +1,7 @@
+// A string is a sequence of one or more characters that may consist of letters, numbers, or symbols enclosed in double quotes
+
+
+
 const name = "Rohit"
 const repoCount = 50
 
