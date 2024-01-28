@@ -1,9 +1,9 @@
 // Array
-
+// An array is a special variable/ Object, which can hold more than one value
 const myArr = [0,1,2,3,4,5];
 const myHeros = ["ironMan","spiderMan"]
 
-// console.log(myArr[2])
+// console.log(myArr[2])  // acess element in array 
 
 
 // Array methods
@@ -18,10 +18,10 @@ const myHeros = ["ironMan","spiderMan"]
 
 
 
-const newArr = myArr.join();
+const newArr = myArr.join(); // it bind with convert into string
 
 // console.log(myArr);
-// console.log(newArr);
+// console.log(newArr);  // string value
 
 
 //slice   splice
@@ -29,10 +29,11 @@ const newArr = myArr.join();
 console.log("A",myArr);
 
 
-const myn1 = myArr.slice(1,3)  // return copy of section of an array
+const myn1 = myArr.slice(1,3)  // return 1, 2
 console.log("B",myArr);
 console.log(myn1);
 
-const myn2 = myArr.splice(1,3);  // remove that range of element in an array
+// Splice operation after original array was changed
+const myn2 = myArr.splice(1,3);  // return 1,2,3
 console.log("c",myArr);
 console.log(myn2);
