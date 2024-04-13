@@ -1,5 +1,5 @@
 # Days_With_JS
-# This Repo for Js practise
+# This Repo for Js for Beginner level to Advance
 start from scrach to Advance level
 
 ## Authors
